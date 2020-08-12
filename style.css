@@ -1,0 +1,31 @@
+/* *{
+  outline: 1px solid red;
+} */
+
+body{
+  background-color: aliceblue;
+}
+
+.bg-blue{
+  background-color: #0186be;
+}
+
+.text-grey{
+  color: grey;
+}
+
+.text-white{
+  color: white;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+.big-font{
+  font-size: 1.3em;
+}
